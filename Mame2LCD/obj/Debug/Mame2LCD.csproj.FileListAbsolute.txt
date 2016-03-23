@@ -1,0 +1,9 @@
+z:\Mame2LCD\Mame2LCD\Mame2LCD\bin\Debug\Mame2LCD.exe.config
+z:\Mame2LCD\Mame2LCD\Mame2LCD\bin\Debug\Mame2LCD.exe
+z:\Mame2LCD\Mame2LCD\Mame2LCD\bin\Debug\Mame2LCD.pdb
+z:\Mame2LCD\Mame2LCD\Mame2LCD\obj\Debug\Mame2LCD.csprojResolveAssemblyReference.cache
+z:\Mame2LCD\Mame2LCD\Mame2LCD\obj\Debug\Mame2LCD.Form1.resources
+z:\Mame2LCD\Mame2LCD\Mame2LCD\obj\Debug\Mame2LCD.Properties.Resources.resources
+z:\Mame2LCD\Mame2LCD\Mame2LCD\obj\Debug\Mame2LCD.csproj.GenerateResource.Cache
+z:\Mame2LCD\Mame2LCD\Mame2LCD\obj\Debug\Mame2LCD.exe
+z:\Mame2LCD\Mame2LCD\Mame2LCD\obj\Debug\Mame2LCD.pdb
